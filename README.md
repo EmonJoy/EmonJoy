@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **DATA Science, Machine learning**
+- 🌱 I’m currently learning **Software DEV, DSA(c++, JAVA)*
 
 - 💬 Ask me about **Anything**
 
