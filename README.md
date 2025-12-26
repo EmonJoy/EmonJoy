@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **Software DEV, DSA(c++, JAVA), JavaFX, Android Studio, .NET framework*
+- 🌱 I’m currently learning **Software DEV, DSA(c++, JAVA), JavaFX, Android Studio, .NET framework(ASP.net core, winform, WPF) *
 
 - 💬 Ask me about **Anything**
 
