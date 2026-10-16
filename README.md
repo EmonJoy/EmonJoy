@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emonjoy" alt="emonjoy" /></a> </p>
 
 - 🔭 I’m currently working on **None**
+- 🌱 I’m good at **Django, Django rest, react native, php**
 
-- 🌱 I’m currently learning **Software DEV, DSA(c++, JAVA), JavaFX, Android Studio, .NET framework(ASP.net core, winform, WPF) *
+- 🌱 I’m currently learning **Software DEV, DSA(C++), Android Studio, .NET framework(winform, WPF)*
 
 - 💬 Ask me about **Anything**
 
